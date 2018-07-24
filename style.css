@@ -1,3 +1,7 @@
+body{
+    width:1250px;
+    background-color: darkblue;
+}
 .title{
     background-color:darkblue;
 }
@@ -5,4 +9,9 @@
 .title h1{
     color: white;
     font-family: sans-serif;
+}
+
+main{
+    width:500px;
+    
 }
