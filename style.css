@@ -1,5 +1,5 @@
 body{
-    width:500px;
+    width:1000px;
     background-color:white;
     text-align:center;
     font-family: sans-serif;
@@ -8,10 +8,10 @@ body{
 .title{
     width: 100%;
     background-color:darkblue;
+    font-size: 50px;
 }
 
 .title h1{
-    text-size: 30px;
     color: white;   
 }
 
