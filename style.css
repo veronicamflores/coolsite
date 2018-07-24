@@ -20,7 +20,8 @@ main{
      background-color: white;
 }
 aside{
-    width: 25%;
+    float: right;
+    width: 35%;
 }
 
 .footer{
