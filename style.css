@@ -1,9 +1,9 @@
 body{
-    width:1500px;
+    width:2000px;
     background-color: darkblue;
     text-align:center;
     font-family: sans-serif;
-    margin:auto;
+    margin:auto 0;
 }
 .title{
     width: 100%;
@@ -20,6 +20,8 @@ main{
 }
 aside{
     width: 25%;
+    position: absolute;
+    right: 50px;
 }
 
 .footer{
