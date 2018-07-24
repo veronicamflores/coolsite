@@ -3,6 +3,7 @@ body{
     background-color: darkblue;
     text-align:center;
     font-family: sans-serif;
+    margin:auto;
 }
 .title{
     width: 100%;
