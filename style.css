@@ -10,6 +10,7 @@ body{
     background-color:darkblue;
     font-size: 25px;
     color: white;
+    padding: 20px;
 }
 
 main{
@@ -28,8 +29,9 @@ main{
     background-color:lightblue;
 }
 article {
+    text-align: center;
     font-size: 12px;
-    width: 35%;
+    width: 25%;
 }
 .image-box {
     color: white;
