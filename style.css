@@ -1,7 +1,10 @@
 body{
     max-width:1000;
 }
-
+main{
+    height: 75%;
+    background-color: white;
+}
 .title{
     height:10%;
     background-color: blue;
