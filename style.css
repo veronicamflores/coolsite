@@ -13,9 +13,8 @@ body{
 }
 
 main{
-    width:60%;
+    width:55%;
     background-color: white;
-    margin: auto ;
 }
 .footer{
     background-color: darkblue;
@@ -34,7 +33,7 @@ article{
     padding-right: 50px;
 }
 
-.image box{
+.image-box{
     height: 100px;
     background-color: cornflowerblue;
 }
