@@ -14,12 +14,9 @@ body{
     color: white;   
 }
 
-.main-content{
-    background-color: white;
-}
-
 main{
     width:50%;
+     background-color: white;
 }
 aside{
     width: 25%;
