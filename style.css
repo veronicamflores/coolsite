@@ -1,8 +1,9 @@
 body{
-    width:1250px;
+    width:1500px;
     background-color: darkblue;
 }
 .title{
+    width: 100%;
     background-color:darkblue;
 }
 
@@ -12,9 +13,12 @@ body{
 }
 
 main{
-    width:500px;  
+    width:50%;
 }
 aside{
-    position: absolute;
-    right: 100px;
+    width: 25%;
+}
+
+.footer{
+    width: 100%;
 }
