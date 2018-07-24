@@ -30,6 +30,8 @@ main{
 article{
     font-size: 12px;
     width: 35%;
+    float: right;
+    padding-right: 50px;
 }
 
 .image box{
