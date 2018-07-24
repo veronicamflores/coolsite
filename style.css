@@ -1,7 +1,6 @@
 body{
     width:100%;
     background-color:white;
-    text-align: center;
     font-family: sans-serif;
   
 }
@@ -13,27 +12,31 @@ body{
 }
 
 main{
-    width:55%;
+    width: 100%;
     background-color: white;
+
 }
-.footer{
+.main-content{
+    width: 55%;
+}
+.footer {
     background-color: darkblue;
     height: 100px;
     width: 100%;
 }
-.line{
+.line {
     margin:auto;
     height:20px; 
     background-color:lightblue;
 }
-article{
+article {
     font-size: 12px;
     width: 35%;
     float: right;
-    padding-right: 50px;
 }
 
-.image-box{
+.image-box {
+    color: white;
     height: 100px;
     background-color: cornflowerblue;
 }
