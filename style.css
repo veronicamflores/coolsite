@@ -10,10 +10,7 @@ body{
     width: 100%;
     background-color:darkblue;
     font-size: 25px;
-}
-
-.title h1{
-    color: white;   
+    color: white;
 }
 
 main{
@@ -27,14 +24,16 @@ main{
     width: 100%;
 }
 .line{
-    width: 60%;
+    margin:auto;
     height:20px; 
     background-color: cornflowerblue;
 }
 article{
+    font-size: 12px;
     width: 35%;
 }
 
 .image box{
-    height: 50px;
+    height: 100px;
+    background-color: lightblue;
 }
