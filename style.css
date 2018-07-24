@@ -48,7 +48,4 @@ article {
     height: 100px;
     width: 100%;
     border: solid black 2px;
-    position: fixed;
-    right: 0;
-    bottom: 0;
 }
