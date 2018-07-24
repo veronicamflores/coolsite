@@ -1,6 +1,8 @@
 body{
     width:1500px;
     background-color: darkblue;
+    text-align:center;
+    font-family: sans-serif;
 }
 .title{
     width: 100%;
@@ -8,8 +10,7 @@ body{
 }
 
 .title h1{
-    color: white;
-    font-family: sans-serif;
+    color: white;   
 }
 
 main{
@@ -22,4 +23,10 @@ aside{
 .footer{
     background-color: darkblue;
     width: 100%;
+}
+.img{
+    color: white;
+    width:500px;
+    height:500px;
+    background-color: cornflowerblue;
 }
