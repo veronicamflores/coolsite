@@ -1,3 +1,12 @@
+body{
+    max-width:1000;
+}
+
+.title{
+    height:10%;
+    background-color: blue;
+}
 .footer{
+    height:15%;
     background-color: blue;
 }
