@@ -17,7 +17,8 @@ body{
 
 main{
     width:60%;
-     background-color: white;
+    background-color: white;
+    margin: auto ;
 }
 aside{
     width: 35%;
@@ -30,7 +31,7 @@ aside{
 }
 .img{
     color: white;
-    height: 75px;
+
     width: 35%;
     background-color: cornflowerblue;
 }
