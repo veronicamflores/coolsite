@@ -14,29 +14,25 @@ body{
 main{
     width: 100%;
     background-color: white;
-
 }
 .main-content{
     width: 55%;
 }
-.footer {
-    background-color: darkblue;
-    height: 100px;
-    width: 100%;
-}
 .line {
-    margin:auto;
     height:20px; 
     background-color:lightblue;
 }
 article {
     font-size: 12px;
     width: 35%;
-    float: right;
 }
-
 .image-box {
     color: white;
     height: 100px;
     background-color: cornflowerblue;
+}
+.footer {
+    background-color: darkblue;
+    height: 100px;
+    width: 100%;
 }
