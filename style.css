@@ -16,7 +16,7 @@ body{
 }
 
 main{
-    width:50%;
+    width:60%;
      background-color: white;
 }
 aside{
@@ -31,5 +31,12 @@ aside{
 }
 .img{
     color: white;
+    height: 75px;
+    width: 35%;
+    background-color: cornflowerblue;
+}
+.line{
+    width: 60%;
+    height:20px; 
     background-color: cornflowerblue;
 }
