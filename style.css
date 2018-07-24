@@ -3,6 +3,7 @@ body{
     background-color:white;
     text-align: center;
     font-family: sans-serif;
+    margin: auto;
   
 }
 .title{
@@ -20,23 +21,20 @@ main{
     background-color: white;
     margin: auto ;
 }
-aside{
-    width: 35%;
-}
-
 .footer{
     background-color: darkblue;
     height: 100px;
     width: 100%;
 }
-.img{
-    color: white;
-
-    width: 35%;
-    background-color: cornflowerblue;
-}
 .line{
     width: 60%;
     height:20px; 
     background-color: cornflowerblue;
+}
+article{
+    width: 35%;
+}
+
+.image box{
+    height: 50px;
 }
