@@ -12,6 +12,9 @@ body{
 }
 
 main{
-    width:500px;
-    
+    width:500px;  
+}
+aside{
+    position: absolute;
+    right; 100px;
 }
